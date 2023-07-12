@@ -96,3 +96,42 @@ height: 538px;
     form{
         text-align: center;
     }
+    .bg{
+        background-image: url(../bg.png);
+        margin: 20px 150px;
+    }
+    .center{
+        text-align: center;
+    }
+    .margin{
+        
+    }
+    .bg1{
+        background: #111010;
+        padding: 200pxpx 2000px;
+        margin-top: 20px;
+
+    }
+    .span1{
+        color: #E55473;
+    }
+    .span2{
+      color: #fff;  
+    }
+    .hg{
+        color: rgba(255, 255, 255, 0.90);
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .text-color{
+        color: #FFFFFFE5;
+    }
+    .text-color1{
+        color: #FFFFFF66; 
+    }
+    .text-size{
+      
+    }
+    
