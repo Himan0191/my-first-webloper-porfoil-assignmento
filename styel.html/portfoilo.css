@@ -46,21 +46,28 @@ height: 538px;
 }
 .gallery{
   margin: 5px;
-  width: 300px;
+  
   float: left;  
 }
 .images-item1{
     border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);   
+    background: rgba(167, 33, 98, 0.15); 
+    width: 310px;
+    height: 428px;
+  
 }
 .images-item2{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
+    width: 310px;
+    height: 428px;
+    
 }
 .images-item3{
     border-radius: 300px 300px 0px 0px;
-    background: rgba(71, 125, 17, 0.15);
-    margin: 0 728px;
+    background: rgba(71, 125, 17, 0.15);width: 310px;
+    height: 428px;
+     margin: 0 728px;
 }
 .gallery img{
     max: width 300px;
@@ -70,10 +77,11 @@ height: 538px;
 }
 .dase{
     color: #272727;
-    text-align: center;
-    font-size: 24px;
+   
+    font-size: 20px;
     font-weight: 700;
     text-decoration-line: underline;
+    
 }
 .images5{
     width: 200pxpx;
@@ -133,5 +141,10 @@ height: 538px;
     }
     .text-size{
       
+    }
+    .section{
+      margin: 0 200px;
+      margin-left: 5px;
+     
     }
     
