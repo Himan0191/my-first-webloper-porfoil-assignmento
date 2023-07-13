@@ -41,7 +41,7 @@
     align-items: center;
 }
 .con-tainer{
-    width: 464px;
+    width: 350px;
 height: 538px;
 }
 .gallery{
@@ -106,7 +106,11 @@ height: 538px;
     }
     .bg{
         background-image: url(../bg.png);
-        margin: 20px 150px;
+        margin: 20px 180px;
+        width: 1200px;
+        height: 449px;
+
+
     }
     .center{
         text-align: center;
@@ -146,5 +150,11 @@ height: 538px;
       margin: 0 200px;
       margin-left: 5px;
      
+    }
+    .button1{
+        margin-bottom: 10px;
+    }
+    .text div h4{
+        text-align: center;
     }
     
